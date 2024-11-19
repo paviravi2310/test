@@ -4,3 +4,8 @@ npx tailwindcss init
 
 github commENT
 git init
+git add .
+git commit -m "abcd"
+git remote add origin https://github.com/paviravi2310/test.git
+git branch -M main
+git push -u origin main
